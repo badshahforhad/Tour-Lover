@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* universal font */
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+}
+
+.logo a{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.lover{
+
+}
+
+.logo img{
+    width: 30px;
+    height: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    /* padding: 0 20px 0 20px; */
+    line-height: 85px;
+    color: #fff;
+
+}
+
+/* nav section end  */
